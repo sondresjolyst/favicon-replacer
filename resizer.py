@@ -1,7 +1,7 @@
 import os
 from PIL import Image
 
-inputDir = 'images'
+inputDir = 'input'
 outputDir = 'output'
 original = Image.open('original.png')
 
